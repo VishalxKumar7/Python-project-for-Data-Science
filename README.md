@@ -1,0 +1,1 @@
+Web scraping and data analysis project using Python to extract, clean, and visualize stock data. This repository includes extracting GameStop and Tesla stock information, cleaning the data (removing commas and dollar signs), and visualizing the data with custom graphs. Tools used: requests, BeautifulSoup, pandas, yfinance, and matplotlib.
